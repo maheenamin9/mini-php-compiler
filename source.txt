@@ -1,0 +1,9 @@
+<?php
+   function $xyz(){
+echo "string";
+if(3>2){
+/*while(3>2){
+echo"hello";
+}*/
+}
+?>
